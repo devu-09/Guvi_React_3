@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Guvi_React_3/static/css/main.ff23d4f6.chunk.css",
+    "main.js": "/Guvi_React_3/static/js/main.3792e61e.chunk.js",
+    "main.js.map": "/Guvi_React_3/static/js/main.3792e61e.chunk.js.map",
+    "runtime-main.js": "/Guvi_React_3/static/js/runtime-main.fd59259d.js",
+    "runtime-main.js.map": "/Guvi_React_3/static/js/runtime-main.fd59259d.js.map",
+    "static/js/2.a9d0ccaa.chunk.js": "/Guvi_React_3/static/js/2.a9d0ccaa.chunk.js",
+    "static/js/2.a9d0ccaa.chunk.js.map": "/Guvi_React_3/static/js/2.a9d0ccaa.chunk.js.map",
+    "static/js/3.53a300f2.chunk.js": "/Guvi_React_3/static/js/3.53a300f2.chunk.js",
+    "static/js/3.53a300f2.chunk.js.map": "/Guvi_React_3/static/js/3.53a300f2.chunk.js.map",
+    "index.html": "/Guvi_React_3/index.html",
+    "static/css/main.ff23d4f6.chunk.css.map": "/Guvi_React_3/static/css/main.ff23d4f6.chunk.css.map",
+    "static/js/2.a9d0ccaa.chunk.js.LICENSE.txt": "/Guvi_React_3/static/js/2.a9d0ccaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd59259d.js",
+    "static/js/2.a9d0ccaa.chunk.js",
+    "static/css/main.ff23d4f6.chunk.css",
+    "static/js/main.3792e61e.chunk.js"
+  ]
+}
